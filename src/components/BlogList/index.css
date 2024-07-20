@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.li {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+  width: 100%;
+}
+.end {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  width: 90%;
+}
+.h1 {
+  font-size: 20px;
+}
+.p {
+  color: #9aa5b1;
+  font-weight: 500;
+}
+.hr {
+  border:1px solid #9aa5b1;
+  width:100%;
+}
